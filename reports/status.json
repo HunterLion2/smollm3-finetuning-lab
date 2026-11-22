@@ -1,0 +1,8 @@
+{
+  "status": "not_run",
+  "training_completed": false,
+  "base_accuracy": null,
+  "adapter_accuracy": null,
+  "accuracy_delta": null,
+  "note": "No SmolLM3 training or inference results have been published. Code/unit checks do not establish model quality."
+}
